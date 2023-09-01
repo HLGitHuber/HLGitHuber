@@ -1,4 +1,8 @@
 # 💫 About Me:
+My name is Hubert Lewandowski and I am currently a student at Codecool learning as Full-Stack Developer with C#, React and JavaScript using variety of libraries and frameworks. 👨‍💻
+
+I enjoy programming as well as problem solving the most. Communicating and solving problems with other team members brings a lot of fun in which I'm always invested in 🎉
+
 🔭 I’m currently working on RecipeHub project of mine<br>🌱 I’m currently learning React and ASP.NET
 
 
